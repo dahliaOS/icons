@@ -1,2 +1,2 @@
 # Icons
-DahliaOS Official Icons
+dahlia official icons
