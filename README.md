@@ -14,52 +14,52 @@
 - The icons come in two variations, Plastic and Paper:
   - [`Plastic`](/icons/plastic/)
   <p align="center">
-  <img width="5%" src="icons/plastic/png/1x/ActivityMonitor.png"/>
+  <img width="7%" src="icons/plastic/svg/ActivityMonitor.svg"/>
   &nbsp
-  <img width="5%" src="icons/plastic/png/1x/AppStore.png"/>
+  <img width="7%" src="icons/plastic/svg/AppStore.svg"/>
   &nbsp
-  <img width="5%" src="icons/plastic/png/1x/Calculator.png"/>
+  <img width="7%" src="icons/plastic/svg/Calculator.svg"/>
   &nbsp
-  <img width="5%" src="icons/plastic/png/1x/Clock.png"/>
+  <img width="7%" src="icons/plastic/svg/Clock.svg"/>
   &nbsp
-  <img width="5%" src="icons/plastic/png/1x/FileManager.png"/>
+  <img width="7%" src="icons/plastic/svg/FileManager.svg"/>
   &nbsp
-  <img width="5%" src="icons/plastic/png/1x/Gallery.png"/>
+  <img width="7%" src="icons/plastic/svg/Gallery.svg"/>
   &nbsp
-  <img width="5%" src="icons/plastic/png/1x/Logs.png"/>
+  <img width="7%" src="icons/plastic/svg/Logs.svg"/>
   &nbsp
-  <img width="5%" src="icons/plastic/png/1x/Settings.png"/>
+  <img width="7%" src="icons/plastic/svg/Settings.svg"/>
   &nbsp
-  <img width="5%" src="icons/plastic/png/1x/Terminal.png"/>
+  <img width="7%" src="icons/plastic/svg/Terminal.svg"/>
   &nbsp
-  <img width="5%" src="icons/plastic/png/1x/TextEditor.png"/>
+  <img width="7%" src="icons/plastic/svg/TextEditor.svg"/>
   &nbsp
-  <img width="5%" src="icons/plastic/png/1x/Welcome.png"/>
+  <img width="7%" src="icons/plastic/svg/Welcome.svg"/>
   </p>
 
   - [`Paper`](/icons/paper/)
   <p align="center">
-  <img width="5%" src="icons/paper/png/1x/ActivityMonitor.png"/>
+  <img width="7%" src="icons/paper/svg/ActivityMonitor.svg"/>
   &nbsp
-  <img width="5%" src="icons/paper/png/1x/AppStore.png"/>
+  <img width="7%" src="icons/paper/svg/AppStore.svg"/>
   &nbsp
-  <img width="5%" src="icons/paper/png/1x/Calculator.png"/>
+  <img width="7%" src="icons/paper/svg/Calculator.svg"/>
   &nbsp
-  <img width="5%" src="icons/paper/png/1x/Clock.png"/>
+  <img width="7%" src="icons/paper/svg/Clock.svg"/>
   &nbsp
-  <img width="5%" src="icons/paper/png/1x/FileManager.png"/>
+  <img width="7%" src="icons/paper/svg/FileManager.svg"/>
   &nbsp
-  <img width="5%" src="icons/paper/png/1x/Gallery.png"/>
+  <img width="7%" src="icons/paper/svg/Gallery.svg"/>
   &nbsp
-  <img width="5%" src="icons/paper/png/1x/Logs.png"/>
+  <img width="7%" src="icons/paper/svg/Logs.svg"/>
   &nbsp
-  <img width="5%" src="icons/paper/png/1x/Settings.png"/>
+  <img width="7%" src="icons/paper/svg/Settings.svg"/>
   &nbsp
-  <img width="5%" src="icons/paper/png/1x/Terminal.png"/>
+  <img width="7%" src="icons/paper/svg/Terminal.svg"/>
   &nbsp
-  <img width="5%" src="icons/paper/png/1x/TextEditor.png"/>
+  <img width="7%" src="icons/paper/svg/TextEditor.svg"/>
   &nbsp
-  <img width="5%" src="icons/paper/png/1x/Welcome.png"/>
+  <img width="7%" src="icons/paper/svg/Welcome.svg"/>
   </p>
 
 ## License
