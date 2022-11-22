@@ -11,7 +11,8 @@
 
 - PNG icons come in 4 sizes: 1x (64x64), 2x (128x128), 4x (256x256) and 8x (512x512).
 
-- The icons come in two variations, Plastic and Paper:
+- The icons come in two variations:
+
   - [`Plastic`](/icons/plastic/)
   <p align="center">
   <img width="7%" src="icons/plastic/svg/ActivityMonitor.svg"/>
