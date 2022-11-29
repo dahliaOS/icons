@@ -7,11 +7,11 @@
 
 # dahliaOS Icons
 
-- This repository holds all dahliaOS application, system and other icons in both PNG and SVG formats.
+This repository holds all dahliaOS application, system and other icons in both PNG and SVG formats.
 
-- PNG icons come in 4 sizes: 1x (64x64), 2x (128x128), 4x (256x256) and 8x (512x512).
+PNG icons come in 4 sizes: 1x (64x64), 2x (128x128), 4x (256x256) and 8x (512x512).
 
-- The icons come in two variations:
+The icons come in two variations:
 
 <!-- Once other icons are added in the repository, make sure to feature them below, too. -->
 
