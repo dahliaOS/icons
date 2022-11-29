@@ -5,62 +5,64 @@
 <a href="https://dahliaos.io/donate">Donate</a> •
 <a href="https://docs.dahliaos.io">Documentation</a>
 
-# dahliaOS Application icons
+# dahliaOS Icons
 
-- This repository holds all dahliaOS application icons in both PNG and SVG formats.
+- This repository holds all dahliaOS application, system and other icons in both PNG and SVG formats.
 
 - PNG icons come in 4 sizes: 1x (64x64), 2x (128x128), 4x (256x256) and 8x (512x512).
 
 - The icons come in two variations:
 
+<!-- Once other icons are added in the repository, make sure to feature them below, too. -->
+
   - [`Plastic`](/icons/plastic/)
   <p align="center">
-  <img width="7%" src="icons/plastic/svg/ActivityMonitor.svg"/>
+  <img width="7%" src="icons/applications/plastic/svg/ActivityMonitor.svg"/>
   &nbsp
-  <img width="7%" src="icons/plastic/svg/AppStore.svg"/>
+  <img width="7%" src="icons/applications/plastic/svg/AppStore.svg"/>
   &nbsp
-  <img width="7%" src="icons/plastic/svg/Calculator.svg"/>
+  <img width="7%" src="icons/applications/plastic/svg/Calculator.svg"/>
   &nbsp
-  <img width="7%" src="icons/plastic/svg/Clock.svg"/>
+  <img width="7%" src="icons/applications/plastic/svg/Clock.svg"/>
   &nbsp
-  <img width="7%" src="icons/plastic/svg/FileManager.svg"/>
+  <img width="7%" src="icons/applications/plastic/svg/FileManager.svg"/>
   &nbsp
-  <img width="7%" src="icons/plastic/svg/Gallery.svg"/>
+  <img width="7%" src="icons/applications/plastic/svg/Gallery.svg"/>
   &nbsp
-  <img width="7%" src="icons/plastic/svg/Logs.svg"/>
+  <img width="7%" src="icons/applications/plastic/svg/Logs.svg"/>
   &nbsp
-  <img width="7%" src="icons/plastic/svg/Settings.svg"/>
+  <img width="7%" src="icons/applications/plastic/svg/Settings.svg"/>
   &nbsp
-  <img width="7%" src="icons/plastic/svg/Terminal.svg"/>
+  <img width="7%" src="icons/applications/plastic/svg/Terminal.svg"/>
   &nbsp
-  <img width="7%" src="icons/plastic/svg/TextEditor.svg"/>
+  <img width="7%" src="icons/applications/plastic/svg/TextEditor.svg"/>
   &nbsp
-  <img width="7%" src="icons/plastic/svg/Welcome.svg"/>
+  <img width="7%" src="icons/applications/plastic/svg/Welcome.svg"/>
   </p>
 
   - [`Paper`](/icons/paper/)
   <p align="center">
-  <img width="7%" src="icons/paper/svg/ActivityMonitor.svg"/>
+  <img width="7%" src="icons/applications/paper/svg/ActivityMonitor.svg"/>
   &nbsp
-  <img width="7%" src="icons/paper/svg/AppStore.svg"/>
+  <img width="7%" src="icons/applications/paper/svg/AppStore.svg"/>
   &nbsp
-  <img width="7%" src="icons/paper/svg/Calculator.svg"/>
+  <img width="7%" src="icons/applications/paper/svg/Calculator.svg"/>
   &nbsp
-  <img width="7%" src="icons/paper/svg/Clock.svg"/>
+  <img width="7%" src="icons/applications/paper/svg/Clock.svg"/>
   &nbsp
-  <img width="7%" src="icons/paper/svg/FileManager.svg"/>
+  <img width="7%" src="icons/applications/paper/svg/FileManager.svg"/>
   &nbsp
-  <img width="7%" src="icons/paper/svg/Gallery.svg"/>
+  <img width="7%" src="icons/applications/paper/svg/Gallery.svg"/>
   &nbsp
-  <img width="7%" src="icons/paper/svg/Logs.svg"/>
+  <img width="7%" src="icons/applications/paper/svg/Logs.svg"/>
   &nbsp
-  <img width="7%" src="icons/paper/svg/Settings.svg"/>
+  <img width="7%" src="icons/applications/paper/svg/Settings.svg"/>
   &nbsp
-  <img width="7%" src="icons/paper/svg/Terminal.svg"/>
+  <img width="7%" src="icons/applications/paper/svg/Terminal.svg"/>
   &nbsp
-  <img width="7%" src="icons/paper/svg/TextEditor.svg"/>
+  <img width="7%" src="icons/applications/paper/svg/TextEditor.svg"/>
   &nbsp
-  <img width="7%" src="icons/paper/svg/Welcome.svg"/>
+  <img width="7%" src="icons/applications/paper/svg/Welcome.svg"/>
   </p>
 
 ## License
