@@ -51,7 +51,7 @@
 <feBlend mode="normal" in2="effect2_innerShadow_2249_3766" result="effect3_innerShadow_2249_3766"/>
 </filter>
 <linearGradient id="paint0_linear_2249_3766" x1="60" y1="15" x2="60" y2="105.687" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FF7043"/>
+<stop offset="0.276042" stop-color="#FF7043"/>
 <stop offset="1" stop-color="#E64A19"/>
 </linearGradient>
 <radialGradient id="paint1_radial_2249_3766" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="rotate(45) scale(169.706)">
